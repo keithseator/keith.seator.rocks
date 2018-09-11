@@ -7,26 +7,43 @@
   background-color: rgb(82, 82, 82);
   font-family: Arial, Helvetica, sans-serif;
   padding: 30px 50px;
-  
+  text-align: center;
 }
 
-.header h2{
+#headerTopLine {
+background-color: aqua;
+  margin: 0 auto;
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+}
+/* 
+#blah {
+  float: left;
+
+}
+
+#blah2 {
+  float: right;
+} */
+
+.header h2 {
   display: inline;
   padding: 0px 70px;
 }
 
-.list-item{
-    list-style-type: none;
-    display: inline;
-    padding: 5px;
+.list-item {
+  list-style-type: none;
+  display: inline;
+  padding: 5px;
 }
 
-.link{
+.link {
   font-family: Arial, Helvetica, sans-serif;
   text-decoration: none;
 }
 
-.unordered-list{
+.unordered-list {
   padding-left: 0px;
 }
 
