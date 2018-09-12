@@ -12,25 +12,14 @@
 }
 
 #headerTopLine {
-background-color: aqua;
+/* background-color: aqua; */
   margin: 0 auto;
-  width: 800px;
+  width: 600px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  
 }
 
-#blah {
-
-  /* border-top: 30px solid #CCCCCC; */
-  /* float: left; */
-
-}
-
-#blah2 {
-  /* float: right; */
-}
 
 .header h2 {
   display: inline;
