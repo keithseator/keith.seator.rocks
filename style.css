@@ -8,6 +8,7 @@
   font-family: Arial, Helvetica, sans-serif;
   padding: 30px 50px;
   text-align: center;
+  
 }
 
 #headerTopLine {
@@ -16,16 +17,20 @@ background-color: aqua;
   width: 800px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  
 }
-/* 
+
 #blah {
-  float: left;
+
+  /* border-top: 30px solid #CCCCCC; */
+  /* float: left; */
 
 }
 
 #blah2 {
-  float: right;
-} */
+  /* float: right; */
+}
 
 .header h2 {
   display: inline;
